@@ -1,4 +1,4 @@
-### Docker Web App
+### Live Greeting Web App
 
 A web application that displays and updates the current time. This project is easily containerized using the included Dockerfile.
 
